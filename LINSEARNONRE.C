@@ -1,3 +1,6 @@
+/*to perform linear search by reading the searching element 
+and compare the elements of given list using the non 
+recursive process*/
 #include<stdio.h>
 #include<conio.h>
 void lsearch(int[],int,int);
